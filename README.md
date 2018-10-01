@@ -16,7 +16,7 @@ to enable the **write**  permission so they can input record into your database
 
 ###### Took me awhile to figure this out 
 
-## 3.Bugs
+## 3. Bugs
 This application is not complete there is still much more to improve etc
 * The UI is very simple and basic
 * Authentication
