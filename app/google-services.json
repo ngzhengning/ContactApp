@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249451879927",
+    "firebase_url": "https://contactapp-9331d.firebaseio.com",
+    "project_id": "contactapp-9331d",
+    "storage_bucket": "contactapp-9331d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249451879927:android:e7d46180b4040478",
+        "android_client_info": {
+          "package_name": "mapp.com.sg.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249451879927-84gi01ufalifquv6pnj2rci7p75ovfqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mapp.com.sg.contactapp",
+            "certificate_hash": "af91bb4e6a298c083bce9d681afcb814811925c5"
+          }
+        },
+        {
+          "client_id": "249451879927-nombref0fv78vl29q1s5nhbcpehltipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGyrcg2DvPC2NQHrVq0GAg4aj2IMzL0NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249451879927-nombref0fv78vl29q1s5nhbcpehltipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
